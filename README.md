@@ -31,8 +31,12 @@ Hibernate Validator是对这个规范的实现（不要和数据库ORM框架Hibe
 
 ### 正则表达式
 [正则表达式](https://www.runoob.com/regexp/regexp-tutorial.html)
+
 [java正则表达式](https://www.runoob.com/java/java-regular-expressions.html)
+
 [正则表达式在线测试工具](https://c.runoob.com/front-end/854/)
+
+[java内部使用pattern和matcher实现正则表达式匹配](https://www.cnblogs.com/ggjucheng/p/3423731.html#:~:text=Matcher%E7%B1%BB%E6%8F%90%E4%BE%9B%E4%B8%89%E4%B8%AA%E5%8C%B9%E9%85%8D%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95%2C%E4%B8%89%E4%B8%AA%E6%96%B9%E6%B3%95%E5%9D%87%E8%BF%94%E5%9B%9Eboolean%E7%B1%BB%E5%9E%8B%2C%E5%BD%93%E5%8C%B9%E9%85%8D%E5%88%B0%E6%97%B6%E8%BF%94%E5%9B%9Etrue%2C%E6%B2%A1%E5%8C%B9%E9%85%8D%E5%88%B0%E5%88%99%E8%BF%94%E5%9B%9Efalse.%20matches%20%28%29%E5%AF%B9%E6%95%B4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BF%9B%E8%A1%8C%E5%8C%B9%E9%85%8D%2C%E5%8F%AA%E6%9C%89%E6%95%B4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%83%BD%E5%8C%B9%E9%85%8D%E4%BA%86%E6%89%8D%E8%BF%94%E5%9B%9Etrue.%20Java%E4%BB%A3%E7%A0%81%E7%A4%BA%E4%BE%8B%3A%20Pattern%20p%3DPattern.compile%20%28%22%5Cd%2B%22%20%29%3B,%28%29%3B%2F%2F%E8%BF%94%E5%9B%9Efalse%2C%E5%9B%A0%E4%B8%BAbb%E4%B8%8D%E8%83%BD%E8%A2%ABd%2B%E5%8C%B9%E9%85%8D%2C%E5%AF%BC%E8%87%B4%E6%95%B4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D%E6%9C%AA%E6%88%90%E5%8A%9F.%20Matcher%20m2%3Dp.matcher%20%28%222223%22%20%29%3B%20m2.matches%20%28%29%3B%2F%2F%E8%BF%94%E5%9B%9Etrue%2C%E5%9B%A0%E4%B8%BAd%2B%E5%8C%B9%E9%85%8D%E5%88%B0%E4%BA%86%20)
 
 
 # 延伸阅读
